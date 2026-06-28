@@ -20,11 +20,16 @@ pip install git+https://github.com/filipecavinato/cavinato-utils.git@main
 
 Exemplo rápido de importação e uso no seu código:
 
+- Importar Modulo Completo:
 ```
 from utilidades import nome_do_modulo
-
-# Exemplo de chamada de função
-
+```
+- Importar apenas uma Função:
+```
+from utilidades.nome_do_modulo import nome_da_função
+```
+- Exemplo de chamada de função
+```
 resultado = nome_do_modulo.nome_função("argumento")
 print(resultado)
 ```
@@ -40,8 +45,8 @@ print(resultado)
 ## 📋 Roadmap de Desenvolvimento
 
 [ x ] Criação da estrutura e código inicial.
-[    ] Implementar novas funcionalidades.
-[    ] Documentar funções com Docstrings.
+[   ] Implementar novas funcionalidades.
+[   ] Documentar funções com Docstrings.
 
 ### Desenvolvido por **Filipe Cavinato**
 <a href="https://www.linkedin.com/in/filipe-cavinato" target="_blank">
