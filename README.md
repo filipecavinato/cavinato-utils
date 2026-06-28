@@ -44,9 +44,9 @@ print(resultado)
 ```
 ## 📋 Roadmap de Desenvolvimento
 
-[ x ] Criação da estrutura e código inicial.
-[   ] Implementar novas funcionalidades.
-[   ] Documentar funções com Docstrings.
+- [x] Criação da estrutura e código inicial.
+- [ ] Implementar novas funcionalidades.
+- [ ] Documentar funções com Docstrings.
 
 ### Desenvolvido por **Filipe Cavinato**
 <a href="https://www.linkedin.com/in/filipe-cavinato" target="_blank">
